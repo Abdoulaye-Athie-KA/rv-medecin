@@ -1,0 +1,31 @@
+body{
+	background: url('https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flegacymedsearch.com%2Fwp-content%2Fuploads%2F2017%2F05%2FMedicine-Future-1024x546-1.jpg&f=1&nofb=1') no-repeat center center fixed;
+	background-color: blue;
+	background-size: cover;
+}
+
+	 .pb-1, .py-1 {
+		padding-bottom: .25rem !important;
+		margin-top: 43%;
+	}
+	.bg-light {
+		background-color: blue !important;
+	}
+	.text-muted {
+		color: #eff5f5 !important;
+	}
+	.small, small {
+		font-size: 90%;
+		font-weight: 400;
+	}
+	.navbar-light .navbar-nav .nav-link {
+		color: rgba(250, 246, 246, 0.99);
+	}
+
+	.navbar-expand-lg {
+		
+		background-color: blue;
+	}
+	.navbar-light .navbar-brand {
+		color: rgba(253, 251, 251, 0.993);
+	}
